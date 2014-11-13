@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2009,2010,2011 Samuel Audet
- *
+ /*israel lazar
  * This file is part of JavaCV.
  *
  * JavaCV is free software: you can redistribute it and/or modify
