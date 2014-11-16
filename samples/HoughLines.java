@@ -5,7 +5,7 @@ import static org.bytedeco.javacpp.opencv_core.*;
 import static org.bytedeco.javacpp.opencv_imgproc.*;
 import static org.bytedeco.javacpp.opencv_highgui.*;
 
-/**
+/** Israek
  * C to Java translation of the houghlines.c sample provided in the c sample directory of OpenCV 2.1,
  * using the JavaCV Java wrapper of OpenCV 2.2 developped by Samuel Audet.
  *
